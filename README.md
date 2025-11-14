@@ -1,4 +1,4 @@
-# Assignment 1 — Simple Python Conditionals
+# Assignment 1 and 2 — Python Problems
 
 # Python Conditional Statements - Assignment Collection
 
